@@ -1,4 +1,13 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  margin: 10px;
+}
+
+.leaflet-container {
+  height: 100%;
+}
+
+.chartjs-render-monitor {
+  margin: 20px 0px;
 }
